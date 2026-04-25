@@ -18,7 +18,16 @@
 ## `whoami`
 
 ```ts
-const vishal = {
+interface Developer {
+  role      : string;
+  username  : string;
+  languages : string[];
+  building  : string[];
+  learning  : string[];
+  askMeAbout: string[];
+}
+
+const vishal: Developer = {
   role      : "Full Stack Developer",
   username  : "lade6501",
   languages : ["JavaScript", "TypeScript", "Python"],
@@ -26,6 +35,8 @@ const vishal = {
   learning  : ["Generative AI", "LLMs", "System Design", "Cloud"],
   askMeAbout: ["Web Dev", "APIs", "Python", "Open Source", "GenAI"],
 };
+
+export default vishal;
 ```
 
 ---
@@ -135,8 +146,8 @@ Open Source  ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-lade)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lade-b92099153)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lade9399@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lade6501)
 
 </div>
