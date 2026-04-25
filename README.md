@@ -111,6 +111,19 @@ export default vishal;
       <p><code>JavaScript</code> · <code>Node.js</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎭 Playwright MCP Automation</h3>
+      <p>Frontend dashboard for a Playwright-powered browser automation tool using MCP — trigger & monitor automated test flows from a clean React UI.</p>
+      <p>
+        <a href="https://github.com/lade6501/playwright-mcp-automation-frontend"><img src="https://img.shields.io/badge/Frontend-00D9FF?style=flat-square&logo=react&logoColor=black" /></a>
+      </p>
+      <p><code>React</code> · <code>Vite</code> · <code>Playwright</code> · <code>MCP</code></p>
+    </td>
+    <td width="50%">
+      <!-- Reserved for next project -->
+    </td>
+  </tr>
 </table>
 
 ---
@@ -146,8 +159,8 @@ Open Source  ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lade-b92099153)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lade9399@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-lade)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lade6501)
 
 </div>
